@@ -1,2 +1,3 @@
 # Mutual-Funds-Analysis
-This Database facilitates the Process of organizing and analyzing the performance of Mutual funds.
+This database facilitates the process of organizing and analyzing the performance of mutual funds. The database is implemented in SQL Server 2019, using the info of top Iran's mutual funds historical data. Using this application investors can make better investment decisions.
+Hope you enjoy it and make $$money$$ ....
